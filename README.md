@@ -1,4 +1,4 @@
-# EAssess: Online Examination System
+# EAssess: A Secure and Scalable Platform for Online Examinations
 
 EAssess is a Python and SQLite prototype for a secure, scalable online examination platform. It is based on the accompanying Software Requirements Specification (SRS) for the Sindh Board of Education (SBoE) examination workflow.
 
